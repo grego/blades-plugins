@@ -1,0 +1,6 @@
+[submodule "blades-katex-rs"]
+	path = blades-katex-rs
+	url = https://github.com/grego/blades-katex-rs
+[submodule "blades-katex"]
+	path = blades-katex
+	url = https://github.com/grego/blades-katex
